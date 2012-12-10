@@ -1,0 +1,21 @@
+The images are from an alphabet designed by Peter Flotner in 1534 (That's the year, not the hotel room).
+
+All the characters are available in the lower-case set; some alternative characters are in the upper-case set and in numerals 1-6.
+
+In total, there are one of each character, except as follows:
+4 each  E and N
+3 each  A and M
+2 each  B, D, G, I, K, O, R. S, V, W
+
+The characters are from the image found at
+http://www.adh.brighton.ac.uk/schoolofdesign/MA.COURSE/05/LL33.html
+
+They were imported into Scanfont, and the resulting font brought into Fontlab 4.5 for some minor cleaning and kerning. Note that there are a number of artifacts resulting from the original scan and the Scanfont conversion which have not been removed.
+
+Recommended sizes are 14-72 points.
+At sizes smaller than 14 point, you can't see the detail, and than about 72 the image starts to break up.
+
+  - Character
+     Nov 25, 2002
+
+

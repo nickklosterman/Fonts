@@ -1,0 +1,5 @@
+Cartographer is copyright 2011 Scott Ford Aneloski all rights reserved. 
+Free for personal use, donations are welcome.
+For commercial use contact scott@aneloski.com
+
+http://www.aneloski.com

@@ -1,0 +1,20 @@
+Trinigan FG
+
+This font goes by quite a number of names. Dave Nalle's scriptorium has it as "Goodfellow". There is a "PS Bluegum Forest" around by a Tris Nguyen which says "based on the Glorietta typeface". Another one, "Burton's Nightmare" seems to be a clone of Goodfellow, it has even the SFL for Scriptorium Font Library inside. Its name comes from the Tim Burton film "Nightmare on Elm Street" where the font was used in the titles AFAIK.
+
+P22 sells this face as "Victorian Swash" saying it was inspired by a historical face called "...'Columbian', which has also been known in recent years as 'Glorietta'..." (P22.com).
+
+This "Glorietta" is in the Solotype catalogues, a collection of old typefaces by Dan Solo, published by Dover. Probably that printed sample was directly or indirectly the mother of all these typefaces.
+
+
+Trinigan has a completed charset and some kerning. Germandbls and Euro symbol
+were created new. Since the design is historic (19th c.), the font is
+freeware for all purposes. It may not be sold and no charges may be asked
+for its distribution.
+
+Comments, questions and suggestions to: fontgrube@loop.de
+Check www.fontgrube.gmxhome.de for more recent versions.
+
+December 2002
+
+Andreas Höfeld (Fontgrube AH)

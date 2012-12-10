@@ -1,0 +1,76 @@
+LONGDON_.TXT
+
+The attached font LONGDON DECORATIVE is Copyright [c] Roger White - all rights reserved. 
+
+This font is Charityware, and has been specifically developed to benefit a group
+of Autistic children with whom the author works. Provided this font is used for
+non-commercial purposes then a fee of £5.00 should be sent to the address below
+if the font is used for more than 28 days after the file was obtained by the end
+user. If the font is used by a registered business in the course of their work
+then a fee of £25.00 should be sent to the address below. No fee is payable to
+the author for it's use. 
+
+Cheques should be made payable to 'Longdon Hall School Childrens Fund' and
+should be sent to:-
+The Treasurer - Childrens Fund,
+Longdon Hall School,
+Longdon Green,
+Rugeley,
+Staffs,
+WS15 4PT.
+Please mention my name when sending your payment. The money in this fund is used
+to provide the children at the school with specialised play equiptment and outings
+which hopefully will contribute to their development. The fund is administered by
+volunteer trustees who make no deductions either for their services or
+administration costs.
+
+You may pass on copies to your friends provided that the copy contains all of the
+files from the original package as follows:-
+
+Postscript Type 1 package - LONGDON_.ZIP contains:-
+
+LONGDON_.AFM
+LONGDON_.PFB
+LONGDON_.PFM
+LONGDON_.INF
+LONGDON_.TXT
+
+TrueType package - LONGDON_.ZIP Contains:-
+
+LONGDON_.TTF
+LONGDON_.TXT
+
+If this font is included as part of a font collection which has not been compiled
+by the author then by including the font the Distributors agree to pay the sum of
+£5,000 to the above named charity.
+
+If the font is included on the cover disk of a magazine then by including the font
+the owners of the magazine agree to make a one off payment to the above named
+Charity of £5,000.
+
+This font has been released in Type 1 and Truetype formats for the PC.
+Conversion of this font to any other format is expressly forbidden. 
+Alteration of this font in any way is expressly forbidden.
+ 
+'LONGDON DECORATIVE' is a high quality font containing full hinting for correct 
+rendering at small point sizes and a total of 105 kerning pairs for correct 
+character spacing. It is supplied 'as is' and no waranty is implied or given 
+by the author. The font is suitable for both headlines and body text, and should 
+render well down to 14 point. The font contains a complete ISO8859-1 ANSI 8 bit 
+Extended Character Set. It was hand traced in order to achieve a high quality 
+outline and compiled using Type Designer 3.1. This font represents
+aproximately 400 manhours of work.
+
+The latest version of this font is always available for download from the
+file list of the fonts conference on the Cix conferencing system. The author
+would appreciate notification of any problems experienced with this font
+together with any suggestions for improvements.
+
+Roger White,
+1, Owens Close,
+Rugeley,
+Staffs,
+WS15 2YH,
+England.
+
+rogerwhite@cix.co.uk

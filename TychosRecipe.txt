@@ -1,0 +1,56 @@
+
+Tycho'sRecipe (UNICODE)
+__________________________________________________
+
+... is a font created by Pia Frauss in 2007, with High-Logic's FontCreator program, and updated in 2010. You have downloaded version 2.00 (first published in 2010).
+
+You are welcome to enjoy this font.
+
+The Tycho'sRecipe font is free for private use. For commercial use, please visit my "Conditions of Use" page at
+
+http://www.pia-frauss.de/imp/cu.htm
+
+This font is based on the handwriting in three manuscript pages from the early 17th century, most probably written by the Danish king Christian IV's court chemist Peter Payngk. They are on show among the digital exhibits of the Royal Library of Denmark:
+
+http://www.kb.dk/permalink/2006/manus/741/dan/23/
+
+The font name was inspired by the title of the text. Called 'Elixyr Tychonis', it consists of the 'Description of a medecine (...) against the Plague, and all Morbos Epidemicos', offered to the queen of Denmark, by Lady Sophie Brahe, sister of the great astronomer Tycho Brahe.
+
+A major UPDATE has been going on, for the 2010 version. The *l* and *t* have been reworked, to sit on the line now. Three alternate characters -- the *g*, *y*, and *p* -- have changed places with the regular ones, and I've designed a new, modern-looking *K* (the original one was really a bit odd). Of course, like in all the other fonts, the composite glyphs have been redesigned, and the dashes have become longer.
+
+The list of alternate characters has changed in 2010. These are now: 
+
+- an alternate *d* on the 'less' sign 
+- an alternate -- i.e. the formerly regular -- *g* on the 'more' sign 
+- an alternate *z* on the right bracket (sitting on the line, as opposed to the regular one) 
+- an alternate *l* on the left bracket 
+- an alternate -- i.e. the formerly regular -- *y* on the right curly bracket 
+- an alternate -- i.e. the formerly regular -- *p* on the left curly bracket 
+- an alternate *r* on the 'bar' and 'broken bar' sign 
+-  a double *long s* on the long s sign 
+- the double *f* ligature, and the original *K* on the *fi* and *fl*. In case those aren't reachable on your computer, please try the masculine and feminine ordinal indicators, or the 'less-than or equal to' and the 'greater than or equal to' signs.
+
+There is no number sign in this font. In its place, you'll find a *long s*.
+
+The pair of winged beasts on the micro sign was inspired by a detail from a very elaborate Lombardic initial. 
+
+_________________________________
+
+
+Disclaimer:
+
+1. The designer as well as owner of this font is Pia Frauss.
+
+2. This is a free font, but it is restricted to personal use only. Commercial use may be obtained by paying a licensing fee.
+
+3. This font may not be included in any commercial compilation of fonts, be it on CD, disks or other products, without the owner's permission.
+
+4. Altogether, this font may not be used for commercial ends and financial gain without the owner's permission.
+
+5. This font may be freely distributed, as long as the zipfile, including this text, remains unaltered.
+
+6. This font comes as it is. There is no warranty -- express or implied -- offered by the owner, or supplier. The risk of any losses or damages resulting from the use of this font remains wth the user.
+
+If you need any information not supplied by this or by the http://www.pia-frauss.de/ website, please write to fonts @ pia-frauss.de (please remove the spaces around the *@* before copying the address into your mail form).
+
+(However, please note that no enquiries such as "how do I download/install/get such and such program to work with your fonts" will be answered in the future.)

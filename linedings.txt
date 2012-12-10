@@ -1,0 +1,89 @@
+_________________________________
+Line Dings  Created by Brian Kent
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Thanks for Downloading Line Dings.
+
+  With this font you can make Line Patterns using strings of
+characters.  There are 2 types of characters in this font, Patterns
+and End Caps (94 Characters in all).
+
+--There are 64 pattern characters:
+Aa through Zz { [ } ] " ' < , > . ? /
+(Aa through Kk are 'mirrors' of each other)
+
+--There are 15 pairs of End Caps (30 in all, Right and Left Caps).
+Here are the pairs (shown as Left Cap then Right Cap):
+
+1]  ` ~
+2]  1 !
+3]  2 @
+4]  3 #
+5]  4 $
+6]  5 %
+7]  6 ^
+8]  7 &
+9]  8 *
+10] 9 (
+11] 0 )
+12] - _
+13] = +
+14] \ |
+15] ; :
+
+
+  For a Chart of all of the Characters in this font, take a look at
+'ldchart.gif'.
+
+
+
+If you have any questions or comments, you can e-mail me at
+kentpw@norwich.net
+
+You can visit my Homepage <ÆNIGMA GAMES & FONTS> at
+http://www.aenigmafonts.com/
+
+________________
+INSTALLING FONTS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  There's a couple of ways to install Fonts. The 'easy' way to
+install fonts is to just Unzip/place the font file [.ttf] into your
+Windows\Fonts directory (I always use this method). If you're unable
+to do it the 'easy' way, then try to do it this way (for Windows
+95/98/NT):
+
+1] Unzip the Font(s) to a folder (or somewhere, just remember where
+you unzipped it) on your Computer.
+
+2] Next, click on the START button, then select SETTINGS then
+CONTROL PANEL.
+
+3] When the Control Panel Window pops up, Double Click on FONTS.
+
+4] When the FONTS window pops up, select File then Install New Font...
+
+5] A Add Fonts window will pop up, just go to the folder that you
+unzipped the Font(s) to, select the Font(s) and then click on OK.
+Now the Font(s) are installed.
+
+  Now you can use the Font(s) in programs the utilize Fonts.  Make
+sure that you install the font(s) first, then open up your apps
+(so the app will recognize the font).    Sometimes you'll have to
+wait until you computer 'auto-refreshes' for programs to recognize
+fonts (Windows is sometimes slow to do that).  You can refresh your
+computer quicker by going into Windows Explorer -or- My Computer and
+press ALT + V, then R (or in the menubar select VIEW then REFRESH).
+
+
+__________
+DISCLAIMER
+¯¯¯¯¯¯¯¯¯¯
+-The font(s) in this zip file were created by me (Brian Kent).  All
+of my Fonts are Freeware, you can use them any way you want to
+(Personal use, Commercial use, or whatever).
+
+-If you have a Font related site and would like to offer my fonts on
+your site, go right ahead. All I ask is that you keep this text file
+intact with the Font.
+
+-You may not Sell or Distribute my Fonts for profit or alter them in
+any way without asking me first.  [e-mail -  kentpw@norwich.net]

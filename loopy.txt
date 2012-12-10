@@ -1,0 +1,102 @@
+____________________________
+Loopy  Created by Brian Kent
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Thanks for Downloading Loopy.
+
+This Font is best printed at 18pt or above.
+
+
+«»«»«»«»«»«»«»«»«»«»«»«»«»«
+HERE'S HOW TO USE THIS FONT
+«»«»«»«»«»«»«»«»«»«»«»«»«»«
+
+To use this Font you have to use a LOOP Character
+{ which are -+()<> SPACE and _ }
+then you use a regular Alphanumeric Character
+{ Aa to Zz, 0 to 9, and ?&!@ }
+then repeat the process, to type out a string of text.
+Here's an example:  (-I+N<F>I>N<I+T-E)  
+
+«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»
+
+Here's a description of each LOOP Character:
+
+( and ) are End Caps for the Loop, they close the Loop.
+
+- is a single Loop.
+
++ is the same as the single Loop but it also has small loops on the
+top and bottom of it.
+
+< is the same as the single Loop but it also has a small loop on the
+top of it.
+
+> is the same as the single Loop but it also has a small loop on the
+bottom of it.
+
+SPACE the Space(bar) is used to make a Blank Loop.
+{ For example  (-A- -Z)  would make A in a loop, a Blank loop, then
+Z in a loop }.
+
+_ (underscore) is only used for when you just want to use the
+Alphanumeric Characters and NO Loops.  { For Example _T_e_s_t }.
+If you just use Alphanumeric Characters, the Characters will just
+overlap each other.
+
+
+>>>Take a look at the image file (loopyINFO.gif) included with the
+Font for a visual explanation of the Info above.<<<
+
+
+If you have any questions or comments, you can e-mail me at
+kentpw@norwich.net
+
+You can visit my Homepage <ÆNIGMA GAMES & FONTS> at
+http://aenigma.cellosoft.com/
+
+________________
+INSTALLING FONTS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  There's a couple of ways to install Fonts. The 'easy' way to
+install fonts is to just Unzip/place the font file [.ttf] into your
+Windows\Fonts directory (I always use this method). If you're unable
+to do it the 'easy' way, then try to do it this way (for Windows
+95/98/NT):
+
+1] Unzip the Font(s) to a folder (or somewhere, just remember where
+you unzipped it) on your Computer.
+
+2] Next, click on the START button, then select SETTINGS then
+CONTROL PANEL.
+
+3] When the Control Panel Window pops up, Double Click on FONTS.
+
+4] When the FONTS window pops up, select File then Install New Font...
+
+5] A Add Fonts window will pop up, just go to the folder that you
+unzipped the Font(s) to, select the Font(s) and then click on OK.
+Now the Font(s) are installed.
+
+  Now you can use the Font(s) in programs the utilize Fonts.  Make
+sure that you install the font(s) first, then open up your apps
+(so the app will recognize the font).    Sometimes you'll have to
+wait until you computer 'auto-refreshes' for programs to recognize
+fonts (Windows is sometimes slow to do that).  You can refresh your
+computer quicker by going into Windows Explorer -or- My Computer and
+press ALT + V, then R (or in the menubar select VIEW then REFRESH).
+
+
+__________
+DISCLAIMER
+¯¯¯¯¯¯¯¯¯¯
+-The font(s) in this zip file were created by me (Brian Kent).  All
+of my Fonts are Freeware, you can use them any way you want to
+(Personal use, Commercial use, or whatever).
+
+-If you have a Font related site and would like to offer my fonts on
+your site, go right ahead. All I ask is that you keep this text file
+intact with the Font.
+
+-You may not Sell or Distribute my Fonts for profit or alter them in
+any way without asking me first.  [e-mail -  kentpw@norwich.net]

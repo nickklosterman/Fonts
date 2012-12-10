@@ -1,0 +1,32 @@
+Civitype FG
+
+The font Civitype comes with Fontographer 4.1. AFAIK it
+is based on a script font named "Civilité".
+The font database file says:
+
+"Developed by S. G. Moye 1991. Public Domain."
+
+So I had no scruples creating my own version. Many of
+the alternative characters in this font went to places
+where they are accessible under Windows. The germandbls
+was created new, the s with flourish went to }. The d
+was problematic when proceeded by an l, like in wild,
+build, folder etc. I adjusted it and placed the original
+on Ú. There is another alternative d on the backslash.
+Use a character map to find what you need. Mind the ch
+and ck ligatures on Ì and Í.
+
+I only added lowercase international characters mostly
+since you won't use such a font all-caps anyway.
+
+This version is freeware but not in the public domain
+any more. Use it for any purpose and at your own risk,
+pass it on as long as you do it for free, but if you
+want to make your own version from it ask me first or
+use Steven Moye's PD version to start.
+
+December 2002
+Andreas Höfeld
+
+www.fontgrube.gmxhome.de
+fontgrube@loop.de

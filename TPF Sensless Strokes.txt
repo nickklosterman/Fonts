@@ -1,0 +1,18 @@
+typophil font library
+package Sensless Strokes ver.1.0
+-------------------------------
+
+author:
+samuel marcius
+
+fonts:
+TPF Sensless Strokes
+
+usage:
+free for private use
+if you are interested into using it commercial, or to distribute it please contact me for price informations!
+
+-------------------------------
+1999 (c) samuel marcius
+email: info@fontenvironment.com
+http://www.fontenvironment.com

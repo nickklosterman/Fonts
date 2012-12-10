@@ -1,0 +1,51 @@
+Schnitger_1680_Regular v. 1.0.2 >>Schnitger_1680_Regular.TTF<<
+created by Bernd Casper, RITE Instruments 2009, using PC PEN 2001 Handwriting Font creation tool
+is a FREE FONT.
+
+Schnitger_1680_Regular is a medieval hand-written TrueType Font, created after organ rank's labels of Arp Schnitger around 1680. Beside the normal letters, the capitals and the numbers it has organ-specific adds and only the most usual symbols.
+
+
+"Author" herein refers to Bernd Casper (the creator of Schnitger_1680_Regular.TTF, further named "TrueType Font").
+ 
+
+License and costs
+
+Use of the TrueType Font is permitted provided that all of the following terms are accepted:
+
+1. The Author grants you a non-exclusive license to use the TrueType Font subject to your compliance with all of the terms and conditions of this license.
+
+2. You are only granted a license for the machine-readable, object code portion of the TrueType Font. You will not modify, enhance, reverse engineer or otherwise alter the TrueType Font from its current state.
+
+3. You will not have any proprietary rights of the TrueType Font. You acknowledge and agree that the Author retains all copyrights and other proprietary rights of the TrueType Font.
+
+4. The TrueType Font is provided "as-is", without any express or implied warranty. Without even the implied warranty of merchantability and fitness for a particular purpose. In no event shall the Author be held liable for any, direct or indirect, damages arising from the use of the TrueType Font.
+
+5. Redistribute the TrueType Fonts or parts of it is not permitted without express written permission of the Author. Home of those TrueType Font(s) is www.rite-instruments.de.
+
+6. None of the TrueType Fonts files may be redistributed for profit or as part of another TrueType Font without express written permission of the Author.
+
+7. Use of the TrueType Font within the scope of this license is free of charge and no royalty or licensing fees shall be payable by you. Use beyond the scope of this license shall constitute copyright infringement.
+
+8. This license shall be effective and bind you upon your downloading of the TrueType Font.
+
+9. The Author reserves his rights to modify this agreement in the future.
+
+10.
+Released under the Creative Commons License (U.S. and German) -
+to share, to copy, distribute and transmit the work under the following conditions:
+
+  - Noncommercial: You may not use this work for commercial purposes. 
+  - No Derivative Works: You may not alter, transform, or build upon this work. 
+  With the understanding that:
+  - Waiver: Any of the above conditions can be waived if you get permission from the copyright holder. 
+  Notice: For any reuse or distribution, you must make clear to others the license terms of this work. 
+
+If you do not agree to all of the above terms, you are not 
+permitted to use the Software package in any way, and all copies of 
+it must be deleted from your system(s).
+
+June, 2009
+Bernd Casper
+RITE Instruments
+Web: http://www.rite-instruments.de
+E-Mail: bernd@rite-instruments.de

@@ -1,0 +1,24 @@
+Thank You for downloading my font!
+
+This font (and all others) created by me, NghtMvs101@aol.com are FREE
+to use for PERSONAL USE ONLY.  It may NOT be used for commercial
+purposes or sold in any way.  Clipart AND Fonts used in creating the
+new font(s) is that which I own, from royalty free CD's that I've
+purchased.
+
+The font attached, and all others created by me, MAY be placed on
+any website available for download, providing proper CREDIT is given
+to me (the author) and this Read Me file is left intact and attached.
+I'd appreciate if you'd drop me a note to let me know too so I can
+visit & in turn add your URL to my Web Page.   ;)
+
+I, NghtMvs101, am not and can not be held resposible for any damages
+incurred to any computer after installing and/or using this font.
+
+Any questions, comments & suggestions are alwayz welcome!
+Enjoy!
+
+
+Nght
+)O(
+http://homes.acmecity.com/music/easylistening/87/index.html

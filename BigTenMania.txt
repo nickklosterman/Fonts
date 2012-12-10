@@ -1,0 +1,99 @@
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
++=+=+=+=+=+=+=+=+=+= A GreyWolf WebWorks Free Font =+=+=+=+=+=+=+=+=+=+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
++=+=+=+=+=+=+ "Big Ten Mania" Copyright© 1998-99  R. Gast +=+=+=+=+=+=+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+"Big Ten Mania" is special dingbat font from Rich Gast.
+
+NOTICE: THE IMAGES USED TO MAKE THIS FONT ARE UNDOUBTEDLY COPYRIGHTED
+BY THE BIG TEN CONFERENCE AND/OR THE INDIVIDUAL UNIVERSITIES BELONGING
+TO THE BIG TEN.  SO USE THEM FOR PERSONAL USES ONLY, SUCH AS SPRUCING
+UP LETTERS AND CARDS TO FRIENDS. BUT YOU ASSUME ALL RESPONSIBILITY FOR
+ANY USE THAT WOULD VIOLATE THE DESIGNER'S OR OWNER'S COPYRIGHTS.
+
+It was originally created on 12/10/98.
+
+Version 3.0 was completed on 8/01/99. This version both updates the
+copyright information from DarkSide Productions to GreyWolf WebWorks
+and makes the font embeddable.
+
+############ EMBEDDABLE FONTS ############
+NOTE: This font is coded so that it can be embedded in MS Word (.DOC)
+documents. Thus, if you use this font in an MS Word document and save
+the document with the font embedded, the recipient of the document will
+see it with this font even though they may not have the font loaded on
+their system. To embed a font in an MS Word document select "Tools"
+from the MS Word menu bar and then select "Options". Under the "Save"
+tab, check the box marked "Embed True Type fonts".  VOILA !
+(The recipient must open the document in MS Word for this to work.)
+############ EMBEDDABLE FONT #############
+
+GreyWolf WebWorks Free Fonts (and versions previously released as
+DarkSide's Free Fonts) are FREE for personal use. They do, however,
+remain the property of Rich Gast and GreyWolf WebWorks. They are not
+in the public domain.
+
+Commercial use in any manner, including (but not limited to) use in
+advertising or corporate logo design, inclusion in any software,
+archive, collection or library for distribution to the public which
+either directly or indirectly generates income for the distributor
+requires written permission from the author and copyright holder,
+who is specifically identified as:
+
+R. Gast
+5818 Prophet's Rock Rd.
+W. Lafayette, IN 47906
+e-mail: greywolfww@earthlink.net
+URL: http://home.earthlink.net/~greywolfww/index.html
+
+Commercial ventures granted permission to include any GreyWolf Free
+Font in their software, archive, library or collection will be provided
+with new font files at no charge in which the version specifically
+identifies them as a licensed user. In this manner, the author and
+copyright holder of the fonts can best retain control of the type of
+product/company with which his fonts are to be associated.
+
+Commercial ventures who include any GreyWolf Free Font in any software,
+archive, library or collection without receiving written permission
+from the author and copyright holder, will be subject to any and all
+legal remedies available to the copyright holder.  All GreyWolf Free
+Fonts are Copyright © R. Gast, GreyWolf WebWorks. All Rights Reserved.
+
+All GreyWolf Free Fonts may be redistributed via FREE web sites,
+e-mail, newsgroups and bulletin boards, as long as the original zip
+file is kept intact, including the accompanying text file(s). If you
+wish to include them on a free web site, please just ask in advance.
+
+NOTE TO PERSONAL USERS: Maybe, just maybe, you'll make a fortune using
+this font in some manner. If you do, all I ask is that you remember me
+with a token of your appreciation. Any modest amount (at least $1 and
+not to exceed $1,000,000) would be an appropriate gesture for my
+contribution to your monumental financial success. Hey! I can dream!
+
+The character set includes:
+
+0,1	Big Ten Logos
+a,b	Illnois
+c,d	Indiana
+e,f	Iowa
+g,h	Michigan
+i,j,k	Michigan State
+l,m	Minnesota
+n,o	Northwestern
+p,q	Ohio State
+r,s,t	Penn State
+u,v,w,x	Purdue
+y,z	Wisconsin
+
+If you don't like the selection, or lack thereof, of dingbats for your
+favorite university, don't bitch at me. I begged for contributions on
+various Big Ten fan forums as well as in the alt.binaries.fonts news
+group. You had your chance!
+
+Oh, yeah....I almost forgot. If (for some unknown reason) you really
+do want to make a donation to encourage me to continue my creative
+efforts, send it to the address above. (Yeah....As If!) Thanks & Enjoy!
+
+..... Rich Gast
+GreyWolf WebWorks
